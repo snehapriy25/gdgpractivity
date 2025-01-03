@@ -2,7 +2,7 @@
 
 ## Participants
 
-| Name               | USN           |
+| Name               | USN           |Sneha kumari| 1DA23AI048|
 |--------------------|---------------|
 | Shreepriya Tariwal | 1DA24EC141    |
 | Prajwal Salgar     | 1DA24EC100    |
